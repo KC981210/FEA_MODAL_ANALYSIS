@@ -4,11 +4,6 @@
 
 import numpy as np
 import pandas as pd
-#print("NAME: ")
-#print("CLASS: ")
-#print("ROLL NO.: ")
-#print("UNIVERSITY PRN: " )
-#print("COLLEGE PRN: ")
 
 
 #Enter Input Data like number of elements,Length,E,density(specific weight),Cross-section Area. 
