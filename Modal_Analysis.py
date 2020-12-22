@@ -1,6 +1,6 @@
 ## PROGRAM FOR DYNAMIC ANALYSIS OF 1D BAR SUBJECTED TO UNDAMPED FREE VIBRATIONS ##
 # import numpy 
-
+# import pandas
 
 import numpy as np
 import pandas as pd
