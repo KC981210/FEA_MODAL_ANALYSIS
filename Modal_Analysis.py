@@ -56,6 +56,7 @@ elif btyp in ['u','U']:
         print("\n")
         M[o:o+2,o:o+2]+=m1
 
+
 # Global Stiffness And Global Mass Matrices 
 print("\n")
 print("------------------------------Global Stiffness matrix (K)--------------------------------")
